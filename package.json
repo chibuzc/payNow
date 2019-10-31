@@ -17,6 +17,6 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "materialize-css": "^1.0.0-rc.2",
-    "mongoose": "^5.0.9"
+    "mongoose": "^5.7.5"
   }
 }
